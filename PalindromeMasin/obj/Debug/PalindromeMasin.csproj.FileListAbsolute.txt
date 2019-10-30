@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\PalindromeMasin\PalindromeMasin\bin\Debug\PalindromeMasin.exe.config
+C:\Users\karvm\source\repos\PalindromeMasin\PalindromeMasin\bin\Debug\PalindromeMasin.exe
+C:\Users\karvm\source\repos\PalindromeMasin\PalindromeMasin\bin\Debug\PalindromeMasin.pdb
+C:\Users\karvm\source\repos\PalindromeMasin\PalindromeMasin\obj\Debug\PalindromeMasin.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\PalindromeMasin\PalindromeMasin\obj\Debug\PalindromeMasin.exe
+C:\Users\karvm\source\repos\PalindromeMasin\PalindromeMasin\obj\Debug\PalindromeMasin.pdb
